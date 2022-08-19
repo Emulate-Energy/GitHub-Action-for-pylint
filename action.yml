@@ -1,0 +1,10 @@
+name: GitHub-Action-for-pylint
+description: test
+author: NikhilTank35
+branding:
+  icon: 'paperclip'
+  color: 'white'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
